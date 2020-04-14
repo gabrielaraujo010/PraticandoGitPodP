@@ -1,0 +1,2 @@
+# PraticandoGitPodP
+Aula ultilizando GitPod
